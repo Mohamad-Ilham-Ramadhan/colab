@@ -1,1 +1,1 @@
-1. git projects.
+1. setelah push branch kita ke remote kebiasaan baik kita yaitu pull origin master/main. Supaya ketika pull request gak ada merge conflicts.
